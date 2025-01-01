@@ -305,27 +305,21 @@ export const education = [
 export const projects = [
   {
     id: 9,
-    title: "Trackify",
-    date: "Jun 2023 - Jul 2023",
+    title: "Weather",
+    date: "Jun 2024 - Jul 2024",
     description:
       "Trackify is a web application designed to streamline task management and enhance productivity in the workplace. It provides a user-friendly interface for employers to keep track of their employees' daily work activities and empowers employees to log their tasks efficiently. \nAdmin Credentials: # Email: testadmin@gmail.com #Password- 123@testadmin, Employee Credentials:	#Email: testemployee@gmail.com	#Password- 123@Testemployee",
     image:
-      "https://user-images.githubusercontent.com/64485885/255202416-e1f89b04-2788-45b0-abc2-9dec616669e2.png",
+    "https://firebasestorage.googleapis.com/v0/b/chat-app-gs-80fd0.appspot.com/o/Screenshot%202025-01-01%20144456.png?alt=media&token=e6de75b3-a34c-497e-98ed-1e3010d47c86",
     tags: [
-      "Docker",
-      "AWS",
-      "DuckDNS",
-      "Eslint",
-      "Husky",
-      "CI/CD",
+      "HTML",
+      "CSS3",
       "React Js",
-      "MongoDb",
-      "Node Js",
-      "Express Js",
-      "Redux",
+      
+    
     ],
     category: "web app",
-    github: "https://github.com/rishavchanda/Trackify",
+    github:  "https://github.com/eshakjavadeveloper/sample",
     webapp: "https://trackify.duckdns.org",
   },
   // {
