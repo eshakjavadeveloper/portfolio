@@ -204,6 +204,10 @@ export  const MobileLink = styled.a`
     border-bottom: 2px solid ${({ theme }) => theme.primary};
   }
 `;
+export const ColorText = styled.div`
+  color: ${({ theme }) => theme.primary};
+  font-size: 32px;
+`;
 
 export const MobileNavLogo = styled(LinkR)`
   width: 80%;
