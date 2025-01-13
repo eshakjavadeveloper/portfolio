@@ -9,7 +9,7 @@ export const Bio = {
   github: "https://github.com/eshakjavadeveloper",
   resume:
   "https://drive.google.com/file/d/1uwmCSMI-M-RSJixqiS9v_yjPyU5kWGVj/view?usp=sharing",
-  // linkedin: "https://www.linkedin.com/in/rishav-chanda-b89a791b3/",
+  linkedin: "https://www.linkedin.com/in/eshak90/",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
   // facebook: "https://www.facebook.com/rishav.chanda.165/",
