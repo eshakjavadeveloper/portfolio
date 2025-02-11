@@ -8,7 +8,7 @@ export const Bio = {
     "I am a motivated and versatile individual, always eager to take on new challenges. With a passion for learning I am dedicated to delivering high-quality results. With a positive attitude and a growth mindset, I am ready to make a meaningful contribution and achieve great things.",
   github: "https://github.com/eshakjavadeveloper",
   resume:
-  "https://drive.google.com/file/d/1uwmCSMI-M-RSJixqiS9v_yjPyU5kWGVj/view?usp=sharing",
+  "https://drive.google.com/file/d/1hes8OU3FtzbPfx5gD4EVuUVeAQgCcDmr/view?usp=sharing",
   linkedin: "https://www.linkedin.com/in/eshak90/",
   // twitter: "https://twitter.com/RishavChanda",
   // insta: "https://www.instagram.com/rishav_chanda/",
